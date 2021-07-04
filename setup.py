@@ -11,9 +11,9 @@ setup(
     author_email="harshad@sharma.io",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zycelium/ansiformat",
+    url="https://github.com/zycelium/python-ansiformat",
     project_urls={
-        "Bug Tracker": "https://github.com/zycelium/ansiformat/issues",
+        "Bug Tracker": "https://github.com/zycelium/python-ansiformat/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
