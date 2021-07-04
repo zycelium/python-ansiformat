@@ -4,7 +4,7 @@ from .markup import AnsiMarkup
 from .palette import AnsiPalette
 from .string import AnsiString
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 palette = AnsiPalette()
 

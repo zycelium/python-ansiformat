@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="zycelium.ansiformat",
-    version="0.1.0",
+    version="0.1.1",
     description="ANSI Formatted Text for Terminals.",
     author="Harshad Sharma",
     author_email="harshad@sharma.io",
