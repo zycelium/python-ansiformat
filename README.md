@@ -1,4 +1,4 @@
-# ansiformat
+# zycelium.ansiformat
 
 ANSI Formatted Text for Terminals.
 
